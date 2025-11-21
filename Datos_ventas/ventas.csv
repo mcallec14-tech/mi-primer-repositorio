@@ -1,5 +1,5 @@
-Cliente_ID,Nombre,Correo,Telefono,Direccion
-201,Pedro_Ramirez,pedro.ram@outlook.com,0998877665,Calle Principal 456
-202,Carolina_Silva,carosilva@yahoo.com,0981122334,Av. Bolivar 789
-203,Roberto_Gonzalez,robgonz@hotmail.com,0974455667,Barrio San Jose
-204,Sofia_Herrera,sofi.herrera@gmail.com,0957788990,Av. Universitaria 321
+Venta_ID,Cliente_ID,Producto,Cantidad,Precio_Unitario,Total_Venta,Fecha
+6001,201,Laptop,1,850,850,2025-01-15
+6002,202,Mouse,3,25,75,2025-01-16
+6003,203,Teclado,2,45,90,2025-01-17
+6004,204,Monitor,1,180,180,2025-01-18
