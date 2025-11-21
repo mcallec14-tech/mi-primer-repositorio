@@ -1,1 +1,5 @@
-
+Cliente_ID,Nombre,Correo,Telefono,Direccion
+201,Pedro_Ramirez,pedro.ram@outlook.com,0998877665,Calle Principal 456
+202,Carolina_Silva,carosilva@yahoo.com,0981122334,Av. Bolivar 789
+203,Roberto_Gonzalez,robgonz@hotmail.com,0974455667,Barrio San Jose
+204,Sofia_Herrera,sofi.herrera@gmail.com,0957788990,Av. Universitaria 321
